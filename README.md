@@ -13,5 +13,5 @@ The Telegram Bot.
 3. Run bot.py file
 
 
-![Telegram](https://t.me/vitclosed)
+
 
