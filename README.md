@@ -12,7 +12,7 @@ The Telegram Bot.
 2. Edit Token on Bot.py File
 3. Run bot.py file
 
-<a href="https://github.com/github_username/repo_name">🇷🇺Telegram Channel</a>
+<a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
     
 
 
