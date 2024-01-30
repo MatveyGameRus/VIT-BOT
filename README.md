@@ -13,8 +13,8 @@ The Telegram Bot.
 3. Run bot.py file
 
 <h2>What's in the bot?</h2>
-•Russian Interface
-•Wikipedia
+•Russian Interface </n>
+•Wikipedia</n>
 •Menu Keyboard
 
 
