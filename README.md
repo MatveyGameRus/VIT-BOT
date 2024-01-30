@@ -13,9 +13,12 @@ The Telegram Bot.
 3. Run bot.py file
 
 <h2>What's in the bot?</h2>
-•Russian Interface </n>
-•Wikipedia</n>
-•Menu Keyboard
+
+•Russian Interface <br>
+
+•Wikipedia <br>
+
+•Menu Keyboard <br>
 
 
 <a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
