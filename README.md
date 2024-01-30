@@ -13,7 +13,5 @@ The Telegram Bot.
 3. Run bot.py file
 
 
-
-Telegram Channel - @vitclosed
-![alt text](https://t.me/vitclosed)
+![Telegram](https://t.me/vitclosed)
 
