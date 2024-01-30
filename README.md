@@ -6,7 +6,7 @@ The Telegram Bot.
 
 
 
-*How To Run? *
+<h2>How To Run?</h2>
 
 1. Install Python
 2. Run bot.py file
