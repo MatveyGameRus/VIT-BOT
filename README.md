@@ -13,6 +13,9 @@ The Telegram Bot.
 3. Run bot.py file
 
 <a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
+
+<h1>У тебя вопросы?</h1>
+Пиши мне! TG - @qwnbe
     
 
 
