@@ -14,8 +14,8 @@ The Telegram Bot.
 
 <a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
 
-<h1>У тебя вопросы?</h1>
+<h3>У тебя вопросы?</h3>
 Пиши мне! TG - @qwnbe
     
-
+**By Matrix, 2024**
 
