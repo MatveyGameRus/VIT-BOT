@@ -20,11 +20,10 @@ The Telegram Bot.
 
 •Menu Keyboard <br>
 
-
-<a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
-
 <h3>У тебя вопросы?</h3>
 Пиши мне! TG - @qwnbe
+
+<a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
     
 **By Matrix, 2024** / Bot version 1.5
 
