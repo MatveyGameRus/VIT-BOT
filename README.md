@@ -8,5 +8,12 @@ The Telegram Bot.
 
 <h2>How To Run?</h2>
 
-|1.| Install Python|
-|2.| Run bot.py file|
+1. Install Python
+2. Edit Token on Bot.py File
+3. Run bot.py file
+
+
+
+Telegram Channel - @vitclosed
+![alt text](https://t.me/vitclosed)
+
