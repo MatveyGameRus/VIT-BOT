@@ -1,11 +1,6 @@
 # VIT-BOT
 The Telegram Bot.
 <h1>PROJECT CLOSED!!!</h1>
-![alt text](https://github.com/MatveyGameRus/VIT-BOT/blob/main/Desktop%20Screenshot%202024.01.30%20-%2015.10.20.38.png?raw=true)
-
-
-
-
 
 <h2>How To Run?</h2>
 
