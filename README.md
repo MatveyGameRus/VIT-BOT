@@ -1,5 +1,6 @@
 # VIT-BOT
 The Telegram Bot.
+<h1>PROJECT CLOSED!!!</h1>
 ![alt text](https://github.com/MatveyGameRus/VIT-BOT/blob/main/Desktop%20Screenshot%202024.01.30%20-%2015.10.20.38.png?raw=true)
 
 
@@ -20,10 +21,8 @@ The Telegram Bot.
 
 •Menu Keyboard <br>
 
-<h3>У тебя вопросы?</h3>
-Пиши мне! TG - @qwnbe
 
-<a href="https://t.me/vitclosed">🇷🇺Telegram Channel</a>
+<a href="">🇷🇺Telegram Channel (not work)</a>
     
 **By Matrix, 2024** / Bot version 1.5
 
